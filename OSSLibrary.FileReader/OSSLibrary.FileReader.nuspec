@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>FileDataReader</id>
+    <version>1.0.0</version>
+    <title>File Data Reader</title>
+    <authors>Akhilesh Mishra</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl></projectUrl>
+    <description>This is library to read tabluar data from excel, csv, txt, file.</description>
+    <releaseNotes>This is first release.</releaseNotes>
+    <copyright>copyright @ AkhiDeveloper 2023</copyright>
+    <tags>Dishhome Excel CSV</tags>
+  </metadata>
+</package>
