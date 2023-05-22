@@ -57,9 +57,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OSSLibrary.FileReader\OSSLibrary.FileReader.csproj">
+    <ProjectReference Include="..\OSSLibrary.FileReader\FileDataReader.csproj">
       <Project>{74b117dd-9000-46ee-bc1f-67ba15d398f2}</Project>
-      <Name>OSSLibrary.FileReader</Name>
+      <Name>FileDataReader</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

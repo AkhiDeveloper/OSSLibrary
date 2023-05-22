@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Reflection;
 using System.IO;
 
-namespace OSSLibrary.FileReader
+namespace FileDataReader
 {
     internal class ExcelDataReadStatergy
         : IDataReadStatergy
