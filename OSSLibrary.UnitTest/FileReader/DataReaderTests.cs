@@ -12,7 +12,7 @@ namespace OSSLibrary.UnitTest
         public void DataReadFromFile_ExcelFile_firstRow()
         {
             //Arrange
-            var filepath = @"C:\Users\DishHome\source\repos\OSSLibrary\OSSLibrary.UnitTest\bin\Debug\SampleFile_OnlyRow.xlsx";
+            var filepath = @"C:\Users\akhil\Source\Repos\OSSLibrary\OSSLibrary.UnitTest\Files\SampleFile_firstRow.xlsx";
             IDataReader reader = new DataReader();
             var expected = new SampleClass()
             {
